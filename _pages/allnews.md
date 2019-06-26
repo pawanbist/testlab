@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Yanshuo Sun."
+excerpt: "Yanshuo Sun"
 sitemap: false
 permalink: /allnews.html
 ---
