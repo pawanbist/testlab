@@ -22,7 +22,6 @@ Sponsor: Council on Research and Creativity, Office of Research, Florida State U
 
 <br>
 
-</br>
 
 **Developing Peer-to-Peer Dynamic Ridesharing Programs for Disadvantaged Citizens**
 
