@@ -10,8 +10,7 @@ permalink: /research/
 
 Optimization and Mathematical Modeling with Applications in: Transportation Networks, Smart and Shared Mobility, Freight and Logistics, Public Transportation System Planning and Operation, Airport Planning and Operations,  Transportation Sustainability, and Transportation Economics. 
  
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}
-
+ 
 # Funded Projects
 
 **FYAP: An Incentive Mechanism to Enable Flexible Peer-to-Peer Ridesharing**
