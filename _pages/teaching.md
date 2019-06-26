@@ -27,12 +27,12 @@ Integer Programming
 MoWe 2:00PM - 3:15PM
 
 <figure>
-  
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pictures/int_programming.jpg" width="95%">
   </figure>
   
 ## Fall 2019: Big Data Analytics in Engineering
 
 <figure>
-  
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pictures/data_analytics.png" width="95%">
   </figure>
 
