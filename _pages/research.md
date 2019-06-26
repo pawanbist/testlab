@@ -36,9 +36,7 @@ PI: Y. Sun , 07/2015 - 07/2016. $10,000.
 
 Sponsor: U.S. Federal Aviation Administration through the Airport Cooperative Research Program
 
-<br>
-
-</br>
+<br/>
 
 **Integrated, Personalized, Real-Time Traveler Information and Incentive Technology for Optimizing Energy Efficiency in Multimodal Transportation Systems**
 
@@ -46,9 +44,7 @@ Co-PI: Y. Sun, PI: Lei Zhang, 11/2015 - present. $ 4,500,000
 
 Sponsor: U.S. Department of Energy through ARPA-E Program
 
-<br>
-
-</br>
+<br />
 
 **Evasive Flow Capturing Problem: Optimal Allocation of Weigh-in-Motion Stations, Tollbooths, and Security Checkpoints**
 
@@ -56,9 +52,7 @@ Y. Sun (Investigator), PI: Paul Schonfeld, 06/2015 - 11/2015. $ 220,000.
 
 Sponsor: National Science Foundation
 
-<br>
-
-</br>
+<br />
 
 **Methods for Improving the Reliability of Transportation Systems**
 
@@ -66,9 +60,7 @@ Y. Sun (Investigator), PI: Paul Schonfeld, 01/2016 - 03/2016. $ 120,000.
 
 Sponsor: National Transportation Center, University of Maryland
 
-<br>
-
-</br>
+<br />
 
 **Efficiency and Reliability in Freight Transportation Systems**
 
@@ -76,9 +68,7 @@ Y. Sun (Investigator), PI: Paul Schonfeld, 10/2014 - 12/2015. $ 80,000.
 
 Sponsor: National Transportation Center, University of Maryland
 
-<br>
-
-</br>
+<br />
 
 **Phased Development of Transportation Projects**
 
@@ -86,9 +76,7 @@ Y. Sun (Investigator), PI: Paul Schonfeld, 08/2013 - 09/2014. $ 93,752.
 
 Sponsor: Mid-Atlantic University Transportation Center
 
-<br>
-
-</br>
+<br />
 
 **Algorithms for Managing Ridesharing Services**
 
@@ -96,6 +84,4 @@ Y. Sun (Investigator), PI: Elise Miller-Hooks, 02/2013 - 06/2013. $ 140,000.
 
 Sponsor: Maryland Industrial Partnerships and IT Curves
 
-<br>
-
-</br>
+<br />
