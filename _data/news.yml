@@ -1,9 +1,9 @@
 
 - date: 21. June 2019
-  headline: "Courses offered in <a href='{{ site.url }}{{ site.baseurl }}/_pages/teaching.md)'>Fall 2019 </a>"
+  headline: "Courses offered in <a href='{{ site.url }}{{ site.baseurl }}/teaching'>Fall 2019 </a>"
 
 - date: 20. June 2019
-  headline: "Looking for <a href='{{ site.url }}{{ site.baseurl }}/_pages/vacancies.md)'> new PhD students <a/>"
+  headline: "Looking for <a href='{{ site.url }}{{ site.baseurl }}/vacancies'> new PhD students <a/>"
 
 - date: 20. June 2019
   headline: "Website upgraded"
