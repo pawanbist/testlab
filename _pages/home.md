@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Yanshuo Sun - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Yanshuo Sun at Florida State University."
 sitemap: false
 permalink: /
 ---
