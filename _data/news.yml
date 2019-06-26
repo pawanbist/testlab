@@ -1,6 +1,6 @@
 
 - date: 21. June 2019
-  headline: "Courses offered in <a href='https://github.com/dineshpoudel11/new/blob/gh-pages/_pages/teaching'>Fall 2019 </a>"
+  headline: "Courses offered in <a href='https://github.com/dineshpoudel11/new/blob/gh-pages/_pages/teaching.md'>Fall 2019 </a>"
 
 - date: 20. June 2019
   headline: "Looking for <a href='{{ site.url }}{{ site.baseurl }}/vacancies'> new PhD students <a/>"
