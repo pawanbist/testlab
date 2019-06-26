@@ -1,7 +1,7 @@
 ---
 title: "Yanshuo Sun - Publications"
 layout: gridlay
-excerpt: "Yanshuo Sun -- Publications."
+excerpt: "Yanshuo Sun -- Publications"
 sitemap: false
 permalink: /publications/
 ---
