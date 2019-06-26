@@ -8,12 +8,6 @@ permalink: /vacancies
 
 # Open positions
 
-We are always looking for new group members with passion, talent, and grit!
-
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
-
-### Open positions
-
 **Ph.D. Positions Available in Industrial Engineering**
 
 **Position Description** 
@@ -39,9 +33,9 @@ Applicants should contact Dr. Yanshuo Sun directly at y.sun@fsu.edu for further 
 
 Students can enroll at either FAMU or FSU.
 
-Graduate Admission @ FSU [http://admissions.fsu.edu/graduate/](http://admissions.fsu.edu/graduate/)
+Graduate Admission @ FSU http://admissions.fsu.edu/graduate/
 
-Graduate Admission @ FAMU [https://www.applyweb.com/famug/index.ftl](https://www.applyweb.com/famug/index.ftl)
+Graduate Admission @ FAMU https://www.applyweb.com/famug/index.ftl
 
 You find the current job openings here:
 [Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
