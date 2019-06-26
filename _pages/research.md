@@ -21,11 +21,13 @@ PI: Y. Sun , 05/2019 - 08/2019. $20,000.
 Sponsor: Council on Research and Creativity, Office of Research, Florida State University 
 
 
+
 **Developing Peer-to-Peer Dynamic Ridesharing Programs for Disadvantaged Citizens**
 
 PI: Y. Sun , 9/2017 - 08/2018. $167,528.
 
 Sponsor: Urban Mobility and Equity Center, Morgan State University
+
 
 
 **Coordinated Airport Facility Development under Uncertainty**
