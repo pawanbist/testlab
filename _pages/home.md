@@ -59,7 +59,7 @@ I am Yanshuo Sun, an Assistant Professor of Industrial Engineering in the FAMU-F
 My overall research objective is to narrow the gap between the research community and the practitioners’ world, through the application of mathematical modeling and optimization methods, in order to improve the planning, operations, and management of transportation systems. I am fascinated with a broad range of research topics and have strong track records in several core areas of transportation, including public transportation, freight transportation, airports, transportation economics, and transportation data analytics. Within this site, you can find my  [research project experiences](research), [publication record](publications), [awards & honors](awards), [teaching experience](teaching), and [professional services](services).
 
 
- **I am actively looking for motivated graduate students to work with me.** [(more info)](vacancies) **!**
+ **I am actively looking for motivated graduate students to work with me** [(more info)](vacancies) **!**
 
 
 <figure class="fourth">
