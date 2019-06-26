@@ -31,12 +31,12 @@ Yanshuo Sun joined FSU as an Assistant Professor of Industrial Engineering in Au
 Prior to joining FSU, he is a Research Scientist and the Assistant Director of Research Program of the National Transportation Center at the University of Maryland, College Park.
 
 
-Applicants should contact Dr. Yanshuo Sun directly at y.sun@fsu.edu for further information. Please refer to his webpage at https://sites.google.com/view/yanshuosun/home. 
+Applicants should contact Dr. Yanshuo Sun directly at [y.sun@fsu.edu] for further information. Please refer to his webpage [here]({{ site.url }}{{ site.baseurl }}/). 
 
 Students can enroll at either FAMU or FSU.
 
-Graduate Admission @ FSU http://admissions.fsu.edu/graduate/
+Graduate Admission @ FSU [http://admissions.fsu.edu/graduate/](http://admissions.fsu.edu/graduate/)
 
-Graduate Admission @ FAMU https://www.applyweb.com/famug/index.ftl
+Graduate Admission @ FAMU [https://www.applyweb.com/famug/index.ftl](https://www.applyweb.com/famug/index.ftl)
 
 <br />
