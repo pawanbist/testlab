@@ -1,25 +1,51 @@
 ---
-title: "Allan Lab - Research"
+title: "Yanshuo Sun - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "Yanshuo -- Research"
 sitemap: false
 permalink: /research/
 ---
 
-# Research
+# Research Exprtise
 
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
-
-Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? 
+Optimization and Mathematical Modeling with Applications in: Transportation Networks, Smart and Shared Mobility, Freight and Logistics, Public Transportation System Planning and Operation, Airport Planning and Operations,  Transportation Sustainability, and Transportation Economics. 
  
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}
 
-Currently, our instrument of choice  is SI-STM.  State-of-the-art SI-STM measures an array of tunneling spectra on a given sample, registered to the atomic sites with picometer precision. Each is proportional to the local density of states at a given location. Ideally, the recorded spectra are so tightly packed that the measurement yields a three-dimensional mapping of the local density of states as a function of locations and energy. This is shown on the image on the right-hand side (10x10 nm2), and its Fourier transform, below.
+# Funded Projects
 
-The quantum materials which we will investigate encapsulate some of the great unsolved mysteries of physics. They include high-temperature superconductors, quantum-critical compounds, graphene, and topological electronic matter that can be used for error-resistant quantum computing.
+**FYAP: An Incentive Mechanism to Enable Flexible Peer-to-Peer Ridesharing**
+PI: Y. Sun , 05/2019 - 08/2019. $20,000.
+Sponsor: Council on Research and Creativity, Office of Research, Florida State University 
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_fft.jpg){: style="width: 300px; float: left; border: 10px"}
+**Developing Peer-to-Peer Dynamic Ridesharing Programs for Disadvantaged Citizens**
+PI: Y. Sun , 9/2017 - 08/2018. $167,528.
+Sponsor: Urban Mobility and Equity Center, Morgan State University
 
-A main goal is to use modern technology to build the new instrumentation needed to understand these quantum materials. I learned my trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where we investigated coupled cavity arrays in circuit QED. This allowed me to learn new techniques such as high frequency measurements, low temperature noise-free amplification, and quantum-limited measurements. The goal is to combine these with SI-STM.
+**Coordinated Airport Facility Development under Uncertainty**
+PI: Y. Sun , 07/2015 - 07/2016. $10,000.
+Sponsor: U.S. Federal Aviation Administration through the Airport Cooperative Research Program 
 
-This will enable the instrumental capabilities to visualize the different quantum mechanical degrees of freedom needed to understand next-generation quantum materials. STM will be the main method, but we use different spectroscopic-imaging techniques to visualize not only the topography, but also the density of states, spins, and other degrees of freedom hidden below the surface.
+**Integrated, Personalized, Real-Time Traveler Information and Incentive Technology for Optimizing Energy Efficiency in Multimodal Transportation Systems**
+Co-PI: Y. Sun, PI: Lei Zhang, 11/2015 - present. $ 4,500,000 
+Sponsor: U.S. Department of Energy through ARPA-E Program
+
+**Evasive Flow Capturing Problem: Optimal Allocation of Weigh-in-Motion Stations, Tollbooths, and Security Checkpoints**
+Y. Sun (Investigator), PI: Paul Schonfeld, 06/2015 - 11/2015. $ 220,000.
+Sponsor: National Science Foundation
+
+**Methods for Improving the Reliability of Transportation Systems**
+Y. Sun (Investigator), PI: Paul Schonfeld, 01/2016 - 03/2016. $ 120,000.
+Sponsor: National Transportation Center, University of Maryland
+
+**Efficiency and Reliability in Freight Transportation Systems**
+Y. Sun (Investigator), PI: Paul Schonfeld, 10/2014 - 12/2015. $ 80,000.
+Sponsor: National Transportation Center, University of Maryland
+
+**Phased Development of Transportation Projects**
+Y. Sun (Investigator), PI: Paul Schonfeld, 08/2013 - 09/2014. $ 93,752. 
+Sponsor: Mid-Atlantic University Transportation Center
+
+**Algorithms for Managing Ridesharing Services**
+Y. Sun (Investigator), PI: Elise Miller-Hooks, 02/2013 - 06/2013. $ 140,000. 
+Sponsor: Maryland Industrial Partnerships and IT Curv
