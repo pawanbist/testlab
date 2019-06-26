@@ -1,7 +1,7 @@
 ---
 title: "Yanshuo Sun - Research"
 layout: textlay
-excerpt: "Yanshuo -- Research"
+excerpt: "Yanshuo Sun -- Research"
 sitemap: false
 permalink: /research/
 ---
