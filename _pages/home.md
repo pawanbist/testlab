@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+I am Yanshuo Sun, an Assistant Professor of Industrial Engineering in the FAMU-FSU College of Engineering, Florida State University[Florida State University](https://www.fsu.edu/). Prior to joining Florida State, I was a Research Scientist and the Director of Research Program at the National Transportation Center at the University of Maryland, College Park.  I earned my Ph.D.  in Civil Engineering from the University of Maryland, College Park, in 2016.We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
