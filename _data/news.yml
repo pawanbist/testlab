@@ -3,7 +3,7 @@
   headline: "Courses offered in <a href='{{ site.url }}{{ site.baseurl }}/_pages/teaching.md)'>Fall 2019 </a>"
 
 - date: 20. June 2019
-  headline: "Looking for [new PhD students](vacancies)"
+  headline: "Looking for <a href='{{ site.url }}{{ site.baseurl }}/_pages/vacancies.md)'> new PhD students <a/>"
 
 - date: 20. June 2019
   headline: "Website upgraded"
