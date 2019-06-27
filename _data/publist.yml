@@ -1,7 +1,6 @@
 - title: " Analyzing High Speed Rail passengers’ train choices based on new online booking data in China"
   image: dummy.png
   description: Transportation Research Part C: Emerging Technologies, 97, 96-113 (2018)
-               Journal Paper
   authors: Sun, Y., Jiang, Z.*, Gu, J., Zhou, M., Li, Y., Zhang, L.
   link:
     url: 
@@ -9,13 +8,13 @@
   highlight: 1
   news2:
 
-- title: "Definition of design guidelines, construction and performance of an ultra-stable scanning tunneling microscope for spectroscopic imaging"
-  image: DomePub.png
-  description: Our first completely home-built STM is alive! And it has the world’s highest resonance frequency.
-  authors: I Battisti, G Verdoes, K van Oosten, KM Bastiaans, and MP Allan
+- title: "Microeconomic model for designing public transit incentive programs"
+  image: dummy.png
+  description: Transportation Research Record.  Vol. 2672(4), 77–89 (2018)
+  authors: Sun, Y., and Zhang, L.*
   link:
-    url: https://aip.scitation.org/doi/10.1063/1.5064442
-    display:  Rev. Sci. Instrum. 89, 123705 (2018)
+    url: 
+    display:  
   highlight: 1
   news2:
 
