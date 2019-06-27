@@ -3,7 +3,7 @@ title: "Yanshuo Sun - Team"
 layout: gridlay
 excerpt: "Yanshuo Sun: Team members"
 sitemap: false
-permalink: /team/
+permalink: /team_expanded/
 ---
 
 # Group Members
