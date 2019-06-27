@@ -1,10 +1,11 @@
-- title: "A strongly inhomogeneous superfluid in an iron-based superconductor"
-  image: SFpub.png
-  description: We succeeded in measuring the superfluid density with atomic resolution on an unconventional superconductor! In contrast to expectations for conventional superconductors, we find that the superfluid densisty is strongly inhomogeneous in FeTe0.55Se0.45.
-  authors: D Cho* & KM Bastiaans* & D Chatzopoulos*, GD Gu, MP Allan
+- title: " Analyzing High Speed Rail passengers’ train choices based on new online booking data in China"
+  image: dummy.png
+  description: Transportation Research Part C: Emerging Technologies, 97, 96-113 (2018)
+               Journal Paper
+  authors: Sun, Y., Jiang, Z.*, Gu, J., Zhou, M., Li, Y., Zhang, L.
   link:
-    url: https://arxiv.org/abs/1901.00149
-    display:  arxiv:1901.00149
+    url: 
+    display:  
   highlight: 1
   news2:
 
