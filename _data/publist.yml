@@ -1,51 +1,50 @@
 - title: " Analyzing High Speed Rail passengers’ train choices based on new online booking data in China"
   image: dummy.png
-  description: Transportation Research Part C Emerging Technologies, 97, 96-113 (2018)<br><br>Journal Paper
+  description: 
   authors: Sun, Y., Jiang, Z.*, Gu, J., Zhou, M., Li, Y., Zhang, L.
   link:
-    url: 
-    display:  
+    url: https://www.sciencedirect.com/science/article/pii/S0968090X18301694
+    display: Transportation Research Part C:Emerging Technologies, 97, 96-113 (2018)
   highlight: 1
   news2:
 
 - title: "Microeconomic model for designing public transit incentive programs"
   image: dummy.png
-  description: Transportation Research Record Vol. 2672(4), 77–89 (2018)<br><br>Journal Paper
+  description: 
   authors: Sun, Y., and Zhang, L.*
   link:
-    url: 
-    display:  
+    url: https://journals.sagepub.com/doi/abs/10.1177/0361198118775875
+    display: Transportation Research Record Vol. 2672(4), 77–89 (2018)
   highlight: 1
   news2:
 
-- title: "Charge trapping and super-Poissonian noise centres in a cuprate superconductor"
-  image: Pub_BCl.png
-  description: Using our newly developed noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
-  authors: KM Bastiaans* & D Cho*, T Benschop, I Battisti, Y Huang, MS Golden, Q Dong, Y Jin, J Zaanen, MP Allan
+- title: "Potential of taxi-pooling to reduce vehicle miles traveled in Washington, D.C. "
+  image: dummy.png
+  description: 
+  authors: Sun, Y., and Zhang, L.*
   link:
-    url: https://www.nature.com/articles/s41567-018-0300-z
-    display:  Nature Physics 14, 1183 (2018)
+    url: https://journals.sagepub.com/doi/abs/10.1177/0361198118801352
+    display: Transportation Research Record Vol. 2672(8), 775–784 (2018)
   highlight: 1
-  news1: <a href="https://aip.scitation.org/doi/10.1063/1.5043267">Instrument details in Rev. Sci. Instrum. 89, 093709 (2018)</a>
-  news2: See also <a href="http://www.quantumuniverse.nl/een-isolerende-supergeleider"> quantum universe </a> (in dutch), <a href="https://phys.org/news/2018-10-mysterious-insulating-phenomenon-superconductor.html"> Phys.org </a>, <a href="https://www.universiteitleiden.nl/en/news/2018/10/insulating-phenomenon-in-superconductor"> Leiden University news</a>, <a href="http://iop.uva.nl/content/news/2018/10/noise-helps-physicists-discover-insulating-phenomenon-in-superconductor.html"> UvA news<a>.
-
-- title: "Amplifier for scanning tunneling microscopy at MHz frequencies"
-  image: Fano.png
-  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: KM Bastiaans, T Benschop, D Chatzopoulos, D Cho, Q Dong, Y Jin, MP Allan
+  news2: 
+  
+- title: "Optimal extension of rail transit lines"
+  image: dummy.png
+  description: 
+  authors: Sun, Y., Schonfeld, P. and Guo, Q.*
   link:
-    url: https://aip.scitation.org/doi/10.1063/1.5043267
-    display:  Rev. Sci. Instrum. 89, 093709 (2018)
+    url: https://www.tandfonline.com/doi/abs/10.1080/15568318.2018.1436730
+    display:  International Journal of Sustainable Transportation 12:10, 753-769 (2018)
   highlight: 0
   news2:
 
-- title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
-  image: SmartPub.png
-  description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
-  authors: M Leeuwenhoek,  RA Norte, KM Bastiaans, Doohee Cho, I Battisti, YaM Blanter, S Gröblacher, MP Allan
+- title: "Joint optimization of tram timetables and signal timing adjustments at intersections"
+  image: dummy.png
+  description: 
+  authors: Shi, J., Sun, Y.*, Schonfeld, P., and Qi, J. 
   link:
-    url: https://iopscience.iop.org/article/10.1088/1361-6528/ab1c7f/pdf
-    display: Nanotechnology 30, 335702 (2019)
+    url: https://www.sciencedirect.com/science/article/pii/S0968090X17302012
+    display: Transportation Research Part C:Emerging Technologies, 83, 104-119
   highlight: 1
   news2:
 
