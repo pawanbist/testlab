@@ -4,7 +4,7 @@
   authors: Sun, Y., Jiang, Z.*, Gu, J., Zhou, M., Li, Y., Zhang, L.
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0968090X18301694
-    display: Transportation Research Part C:Emerging Technologies, 97, 96-113 (2018)
+    display: "Transportation Research Part C: Emerging Technologies, 97, 96-113 (2018)"
   highlight: 1
   news2:
 
@@ -77,7 +77,7 @@
     display: Journal of Advanced Transportation 50(8), 1896-1911 (2016)
   highlight: 1
 
-- title: Identifying passenger trip characteristics and evaluating travel time reliability by visualizing AFC data/:/ A case study of Shanghai Metro
+- title: "Identifying passenger trip characteristics and evaluating travel time reliability by visualizing AFC data: A case study of Shanghai Metro"
   image: dummy.png
   description: ""
   authors: Sun, Y.*, Shi, J., and Schonfeld, P.
