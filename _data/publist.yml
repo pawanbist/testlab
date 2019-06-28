@@ -48,47 +48,43 @@
   highlight: 1
   news2:
 
-- title: "Revisiting quasiparticle scattering interference in high-temperature superconductors: the problem of narrow peaks"
+- title: "Evolution of public transit modes in a commuter corridor"
   image: dummy.png
   description: ""
-  authors: MA Sulangi, MP Allan, J Zaanen
+  authors: Sun, Y., Guo, Q.*, Schonfeld, P., and Li, Z.
   link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.134507
-    display:  PRB 96, 134507 (2017)
+    url: https://www.sciencedirect.com/science/article/pii/S0968090X16302601
+    display: Transportation Research Part C:Emerging Technologies 75, 84-102 (2017)
   highlight: 0
-  news2: Coverd in Superconductor Week, November 30, 2017 Vol. 31, No. 10
+  news2: 
 
-- title: Robust procedure for creating and characterizing the atomic structure of scanning tunneling microscope tips
+- title: Coordinated airport facility development under uncertainty
   image: dummy.png
   description: ""
-  authors: S Tewari, KM Bastiaans, MP Allan, JM van Ruitenbeek
+  authors: Sun, Y.*, and Schonfeld, P.
   link:
-    url: http://www.beilstein-journals.org/bjnano/content/pdf/2190-4286-8-238.pdf
-    display:  Beilstein J. Nanotechnol. 8, 2389 (2017)
+    url: https://journals.sagepub.com/doi/abs/10.3141/2603-08
+    display: Transportation Research Record, No. 2603, 78-88 (2017)
   highlight: 0
   news2:
 
-- title: Creating better superconductors by periodic nanopatterning
-  image: SCAUweb.jpg
+- title: Capacity investment model for airport facilities under demand uncertainty
+  image: dummy.jpg
   description:
-    We  propose  an approach to transform a ‘pristine’ material into a better (meta-) superconductor by making use of modern fabrication techniques -- designing and engineering the electronic properties of thin films via periodic patterning on the nanoscale.
-  authors:
-    MP Allan, MH Fischer, O Ostojic, A Andringa
+  authors: Sun, Y., and Schonfeld, P*.
   link:
-    url: https://scipost.org/SciPostPhys.3.2.010/pdf
-    display: SciPost Phys. 3, 010 (2017)
+    url: https://onlinelibrary.wiley.com/doi/full/10.1002/atr.1435
+    display: Journal of Advanced Transportation 50(8), 1896-1911 (2016)
   highlight: 1
 
-- title: Poor electronic screening in lightly doped Mott insulators observed with scanning tunneling microscopy
-  image: TIBB.png
-  description:
-    We develop a simple model to interpret STM results on lightly doped Mott insulators, and find that the effective Mott gap measured by STM correspons to the one measured with other techniques when taking into account the poor electronic screeing.
-  authors:
-    I Battisti, V Fedoseev, KM Bastiaans, A de la Torre, RS Perry, F Baumberger, MP Allan
+- title: Identifying passenger trip characteristics and evaluating travel time reliability by visualizing AFC data/:/ A case study of Shanghai Metro
+  image: dummy.png
+  description:""
+  authors: Sun, Y.*, Shi, J., and Schonfeld, P.
   link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.235141
-    display: Phys. Rev. B 95, 235141, Editors' suggestion (2017)
-  highlight: 0
+    url: https://link.springer.com/article/10.1007/s12469-016-0137-8
+    display: Public Transport. 8(3), 341-363 (2016)
+  highlight: 1
 
 - title: Universality of pseudo gap and emergent order in lightly doped Mott insulators
   image: Mott_phase_sep.jpg
